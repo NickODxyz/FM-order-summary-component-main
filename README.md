@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Mentor - Order summary card solution</h1>
 
-<img src="https://github.com/NickODxyz/FM-order-summary-component-main/blob/main/Preview.JPG?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-nft-preview-card-component-main/blob/main/Preview.JPG?raw=true" ></img>
 
 <br>
 
@@ -41,6 +41,7 @@ Frontend Mentor [Solution Page]()
 ## Useful resources
 
 [Figma](https://www.figma.com)
+<br>
 [w3schools - CSS Background Shorthand](https://www.w3schools.com/css/css_background_shorthand.asp)
 
 <br>
