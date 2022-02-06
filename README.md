@@ -32,7 +32,7 @@ CSS background property, in particular I wanted to learn the shorthand syntax in
 <br>
 
 ## Site links
-Hosted [Live Site]()
+Hosted [Live Site](https://nickodxyz.github.io/FM-order-summary-component-main/)
 <br>
 Frontend Mentor [Solution Page]()
 
