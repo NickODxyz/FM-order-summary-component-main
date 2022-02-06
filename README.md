@@ -34,7 +34,7 @@ CSS background property, in particular I wanted to learn the shorthand syntax in
 ## Site links
 Hosted [Live Site](https://nickodxyz.github.io/FM-order-summary-component-main/)
 <br>
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/order-summary-component-ZwKph8mw5)
 
 <br>
 
